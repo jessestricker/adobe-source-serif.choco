@@ -1,0 +1,10 @@
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+The files are redistributed from
+  https://github.com/adobe-fonts/source-sans/releases.
+
+SHA256 Digest                                                    File
+BECB61CD5153BF4D6AA47226162D98E4406D76C40137BA45C7CE96E1CA37394D SourceSans3VF-Italic.ttf
+0468AE1EF765CBB499B5F5FAFE08B7AD8B52458642C5F054A2BB16C919D2D939 SourceSans3VF-Roman.ttf
