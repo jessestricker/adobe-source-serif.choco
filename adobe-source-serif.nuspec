@@ -15,22 +15,10 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/adobe-fonts/source-serif</projectSourceUrl>
     <tags>adobe-source-serif serif font variable</tags>
-    <summary>Typeface for setting text in many sizes, weights, and languages.
-Designed to complement Source Sans.</summary>
-    <description> Source Serif is an open-source typeface for setting text in
-many sizes, weights, and languages – conceived as a companion to Source Sans. The
-close companionship of Source Sans and Source Serif is achieved by a careful
-match of letter proportions and typographic color. While designed to harmonize
-with its serif-less counterpart, Source Serif often takes its own direction, in
-part because the two are inspired by different historical precedents. Source
-Serif is loosely based on the work of Pierre Simon Fournier, and many
-idiosyncrasies typical to Fournier’s designs (like a bottom serif on the `b` or a
-serif on the middle pinnacle of `w`) are also found in Source Serif. Without
-being a historical revival, Source Serif takes cues from Fournier’s designs and
-reworks them for contemporary use.
+    <summary>Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans.</summary>
+    <description>Source Serif is an open-source typeface for setting text in many sizes, weights, and languages – conceived as a companion to Source Sans. The close companionship of Source Sans and Source Serif is achieved by a careful match of letter proportions and typographic color. While designed to harmonize with its serif-less counterpart, Source Serif often takes its own direction, in part because the two are inspired by different historical precedents. Source Serif is loosely based on the work of Pierre Simon Fournier, and many idiosyncrasies typical to Fournier’s designs (like a bottom serif on the `b` or a serif on the middle pinnacle of `w`) are also found in Source Serif. Without being a historical revival, Source Serif takes cues from Fournier’s designs and reworks them for contemporary use.
 
-      This package installs the `.ttf`
-files in the variable variant. </description>
+This package installs the `.ttf` files in the variable variant.</description>
     <!-- dependencies -->
     <dependencies>
       <dependency id="chocolatey-font-helpers.extension" version="0.0.4" />
