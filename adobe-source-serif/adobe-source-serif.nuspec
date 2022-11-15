@@ -4,7 +4,7 @@
     <!-- package specific -->
     <id>adobe-source-serif</id>
     <version>4.004</version>
-    <packageSourceUrl>https://github.com/jessestricker/adobe-source-serif.choco</packageSourceUrl>
+    <packageSourceUrl>https://github.com/jessestricker/chocolatey-packages/tree/main/adobe-source-serif</packageSourceUrl>
     <owners>jst</owners>
     <!-- software specific -->
     <title>Source Serif Font</title>
