@@ -2,9 +2,9 @@ VERIFICATION
 Verification is intended to assist the Chocolatey moderators and community
 in verifying that this package's contents are trustworthy.
 
-The files are redistributed from
-  https://github.com/adobe-fonts/source-serif/releases.
+The files are redistributed from:
+  https://github.com/adobe-fonts/source-serif/releases/tag/4.005R
 
 SHA256 Digest                                                    File
-40317231CF3C463A80611EB9BF7721AF4506BB91EDBBB25104F833F77669C9D1 SourceSerif4Variable-Italic.ttf
-38E35C59990B5A39FFB9FB841DFA6F5D2A80CE2C5EA004C3E433B1EFD83EBBD0 SourceSerif4Variable-Roman.ttf
+6A059A64838978D54E8FAB71ED86B0D82E948C0E12B2664D0C15166326DCFF82 SourceSerif4Variable-Italic.ttf
+14D360EE1B76655DA9276628B229E11671BC1F5D1083636144DB6677D452CF55 SourceSerif4Variable-Roman.ttf
